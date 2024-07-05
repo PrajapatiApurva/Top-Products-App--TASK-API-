@@ -1,8 +1,27 @@
-# React + Vite
+# Top Products App - Task API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Top Products App, a project designed to manage and display the top products through a user-friendly API.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Product Management**: Add, update, delete, and view top products.
+- **User Authentication**: Secure login and registration for users.
+- **API Endpoints**: Well-documented endpoints for easy integration.
+
+## Installation
+
+1. **Clone the Repository**:
+    ```bash
+    git clone https://github.com/PrajapatiApurva/Top-Products-App--TASK-API-.git
+    cd Top-Products-App--TASK-API-
+    ```
+
+2. **Install Dependencies**:
+    ```bash
+    npm install
+    ```
+
+4. **Run the Application**:
+    ```bash
+    npm run dev
+    ```
